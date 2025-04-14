@@ -27,7 +27,9 @@ import hashlib
 Genesis4.apply_taper = apply_taper
 
 
-# In[10]:
+# Ensure the temp folder exists
+os.makedirs("temp", exist_ok=True)
+
 
 
 YAML = """
