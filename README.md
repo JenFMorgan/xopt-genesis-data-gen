@@ -23,6 +23,6 @@ More data is stored in folders `processed_inputs/` and `processed_outputs/`.
 
 ## Contents
 
-- `GenerateData.py`: Runs Genesis simulations using Xopt
-  - `temp/`  stores Xopt outputs
-- `processed_inputs/` and `processed_outputs/`: Store simulation data by fingerprint
+- `GenerateData.py`: Main script to run Genesis simulations using Xopt
+- `temp/`: Temporary directory for Xopt generator output
+- `processed_inputs/` and `processed_outputs/`: Organized simulation inputs and results
