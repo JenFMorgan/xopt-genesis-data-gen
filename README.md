@@ -4,7 +4,7 @@ This directory contains an example workflow using to run batch Genesis simulatio
 ## Parameters Optimized
 
 Xopt varies the following input parameters:
-- **Twiss parameters**: `alphax`, `beta', `emittance'
+- **Twiss parameters**: `alphax`, `beta', `emittance',
 - **Undulator taper**: a quadratic taper starting at a given point
 - **Beam chirp**: energy–time correlation
 - **Beam length**: total duration of the electron bunch
